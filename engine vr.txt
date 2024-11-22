@@ -1,0 +1,33 @@
+Engine vr
+1. 3D proj
+2. unity reg -> xr interaction toolkit
+3. there sample starter asses xr device simulator
+4. build setting - android
+5. player setting -> install xrplugin mgmt
+6. set occulus on
+7. drop assets
+8. prefaps in pink -> shader -> standard
+9. import 3 d model 
+10. create empty obj light
+11. 2 area light inside that 
+12. 3d obj covering it -> cast shadow->shadow only
+13. reflection probe
+14. light probe grp
+15. pt light
+16. select garage and workbench -> static -> reflection probes static and contibut GI
+17. windows + rendering + lighting -> new lightying
+18. delete main camera
+19. directional lighting -> balking
+20. then bake using gpu
+21. search and add xr interaction setup
+22. add xr device simulator
+23. select all 12 parts _> add box collider is trigger toggle
+24. all 12 rigidbody -> constrains -> freeze
+25. engine part -> xr interactable
+26. engine assembled -?> xr socet intweractable there events
+27. new events
+28. select assmple1 meshrendered bool enabled no toggle
+29. select ecited assmple1 meshrendered bool enabled toggle
+30. select part 2 gameobj status tick 
+31. select assemble 2 gameobj status tick 
+32. select part1 boxcollide enabled no toggle33.  select assemble1 boxcollide enabled no toggle
